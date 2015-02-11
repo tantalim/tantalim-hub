@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "registry": {
+    "tantalim-core": "https://github.com/tantalim/app-core",
+    "tantalim-ide": "https://github.com/tantalim/app-ide"
+  }
+}
